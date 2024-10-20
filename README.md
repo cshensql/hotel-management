@@ -24,7 +24,7 @@
 
 ## About The Project
 
-<img src="./public/images/project-screenshot.png" alt="Project Screenshot" width="600px" />\
+<img src="./public/images/project-screenshot.png" alt="Project Screenshot" width="600px" />
 
 
 This is a fullstack hotel management system. The website lists various hotel rooms to search, book and leave reviews. To make a booking, authentication is required, and payments are made via Stripe. The content is managed using Sanity CMS.
@@ -64,6 +64,7 @@ Followings are instructions to run locally.
     ```sh
     npm run dev
     ```
+    
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Usage
@@ -77,7 +78,6 @@ Followings are instructions to run locally.
 * Light/dark mode switch
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 ## Contact
 Email: cshencm@gamil.com
